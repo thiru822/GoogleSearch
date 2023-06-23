@@ -1,1 +1,1 @@
-function add(){console.log('hello');}
+function add(){console.log('hello world');}
